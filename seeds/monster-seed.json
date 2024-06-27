@@ -1,0 +1,70 @@
+[
+    {
+      "name": "Goblin",
+      "size": "Small",
+      "category": "Humanoid",
+      "armor_class": {
+        "base": 15,
+        "with_shield": 18
+      },
+      "hit_points": {
+        "average": 7,
+        "roll": "2d6"
+      },
+      "speed": {
+        "walking": 30
+      },
+      "strength": {
+        "score": 8,
+        "modifier": -1
+      },
+      "dexterity": {
+        "score": 14,
+        "modifier": 2
+      },
+      "constitution": {
+        "score": 10,
+        "modifier": 0
+      },
+      "intelligence": {
+        "score": 10,
+        "modifier": 0
+      },
+      "wisdom": {
+        "score": 8,
+        "modifier": -1
+      },
+      "charisma": {
+        "score": 8,
+        "modifier": -1
+      },
+      "saves": {
+        "dexterity": true,
+        "constitution": false,
+        "wisdom": false
+      },
+      "skills": {
+        "stealth": 6
+      },
+      "resistances": {
+        "poison": true
+      },
+      "immunities": {},
+      "conditions": {},
+      "senses": {
+        "darkvision": 60
+      },
+      "languages": ["Common", "Goblin"],
+      "challenge": "1/4",
+      "proficiency": "2",
+      "traits": {
+        "Nimble Escape": "The goblin can take the Disengage or Hide action as a bonus action on each of its turns."
+      },
+      "actions": {
+        "Scimitar": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage."
+      },
+      "image": "goblin.jpg",
+      "user_id": 1
+    }
+  ]
+  
