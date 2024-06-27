@@ -24,8 +24,8 @@ The Monster Mine is a Node.js web application designed to simplify the process o
 
 ### Repository Link
 
-* Github [Repository](https://github.com/micahives/DnD-MonsterBuilder)
+* Github [Repository](https://github.com/DimtheQuiet21/MonsterMine)
 
 ### Deployed Application
 
-* View on [Heroku](https://cryptic-bastion-38379-0ef3d47a3413.herokuapp.com/)
+* View on [Heroku](https://monster-mine-ed126671702f.herokuapp.com/)
